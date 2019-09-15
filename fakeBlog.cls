@@ -79,7 +79,7 @@
             </tr>
             <tr>
                 <td>3</td>
-                <td>The Curse of the Black Pearl	</td>
+                <td>The Curse of the Black Pearl</td>
                 <td>$305,413,918</td>
                 <td>7/9/03</td>
             </tr>
