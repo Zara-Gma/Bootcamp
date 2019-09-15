@@ -2,14 +2,38 @@
     <head>
         <meta charset="utf-8">
         <title>Registration Form</title>
-        <link rel="stylesheet" href="">
+        <style type="text/css">
+            /* * {
+            font-size: 16px;
+        } */
+
+            form {
+                width: 300px;
+            }
+
+            /* input {
+                width: 150px;
+            } */
+            input, textarea, select, button {
+                border-radius: 2px;
+                height: 20px;
+                border: 2px solid black;
+                box-sizing: border-box;
+                margin-bottom: 10px;
+            }
+
+            textarea {
+                resize: both;
+            }
+
+        </style>
     </head>
     <body>
         <form>
             <h3>My Registration Form</h3>
-            <label for='name'>First name: </label>
+            <label for='name'>First Name: </label>
                 <input type="text" name="first name" id="name" placeholder="Mary"><br>
-            <label for='name'>Last name: </label>
+            <label for='name'>Last Name: </label>
                 <input type="text" name="last name" id="name" placeholder="Doe"><br>
             <label for='email'>Email: </label>
                 <input type="email" name="email" id="email" placeholder="youremail@mail.com"><br>
