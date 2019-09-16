@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Basic II</title>
-    </head>
+<head>
+    <title>Basic II</title>
+</head>
 <body>
-    <table> 
+    <table>
         <thead>
             <tr>
                 <th>First Name</th>
@@ -23,11 +23,11 @@
         </tbody>
     </table>
     <h1>Here is a list of my favorite things:</h1>
-        <ul>
-            <li>Food</li>
-            <li>Bandwidth</li>
-            <li>Coffee</li>
-            <li>Beach</li>
-        </ul>
-    </body>
+    <ul>
+        <li>Food</li>
+        <li>Bandwidth</li>
+        <li>Coffee</li>
+        <li>Beach</li>
+    </ul>
+</body>
 </html>
