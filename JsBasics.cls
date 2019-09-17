@@ -28,15 +28,16 @@
             display: inline-block;
             color: lightblue;
             border-radius: 10px;
-            margin: 0px 15px 10px 15px;
+            margin: 0px 15px 50px 15px;
             width: 240px;
             padding: 5px;
-
+            vertical-align: top;
         }
 
         #wrapper {
             margin: 20px 0px;
             display: inline-block;
+            margin-bottom: 0px;
         }
 
         article {
