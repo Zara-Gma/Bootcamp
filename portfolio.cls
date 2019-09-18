@@ -15,7 +15,7 @@
         <h2>Master of shadows and the Internet!</h2>
     </div>
     <div id="main">
-        <img src="Portfolio_images/photo_of_me.jpg" class="about-photo" alt="Lady with glasses" width=500px;>
+        <img src="Portfolio_images/photo_of_me.jpg" class="about-photo" alt="Lady with glasses" style="width:500px">
         <div class="about">
             <h2 class="titles">About...</h2>
             <div class="about-info">
@@ -38,22 +38,22 @@
     <div id="container">
         <div class="block">
             <h2 class="titles">La Mode</h2>
-            <img src="Portfolio_images/lamode.png" alt="La mode" width=300px>
+            <img src="Portfolio_images/lamode.png" alt="La mode" style="width:300px">
             <p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim voluptatibus totam
                 accusantium vel,
                 maiores
                 praesentium soluta aut exercitationem, tempore, ea excepturi non vitae reprehenderit nihil.</p>
             <h4 class="sub-titles">Technologies:</h4>
             <div class="mini-logos">
-                <img src="Portfolio_images/php.png" alt="php" width=40px>
-                <img src="Portfolio_images/codeigniter.png" alt="php" width=40px>
-                <img src="Portfolio_images/jQuery.png" alt="jquery" width=40px>
-                <img src="Portfolio_images/ajax.png" alt="ajax" width=40px>
-                <img src="Portfolio_images/codeigniter.png" alt="php" width=40px>
-                <img src="Portfolio_images/mysql.png" alt="mysql" width=40px>
-                <img src="Portfolio_images/HTML.png" alt="html" width=40px>
-                <img src="Portfolio_images/CSS.png" alt="css" width=40px>
-                <img src="Portfolio_images/bootstrap.png" alt="bootstrap" width=40px>
+                <img src="Portfolio_images/php.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/codeigniter.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/jQuery.png" alt="jquery" style="width:40px">
+                <img src="Portfolio_images/ajax.png" alt="ajax" style="width:40px">
+                <img src="Portfolio_images/codeigniter.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/mysql.png" alt="mysql" style="width:40px">
+                <img src="Portfolio_images/HTML.png" alt="html" style="width:40px">
+                <img src="Portfolio_images/CSS.png" alt="css" style="width:40px">
+                <img src="Portfolio_images/bootstrap.png" alt="bootstrap" style="width:40px">
             </div>
             <div class="center-button">
                 <button type="button">La Mode</button>
@@ -61,22 +61,22 @@
         </div>
         <div class="block">
             <h2 class="titles">La Mode</h2>
-            <img src="Portfolio_images/lamode.png" alt="La mode" width=300px>
+            <img src="Portfolio_images/lamode.png" alt="La mode" style="width:300px">
             <p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim voluptatibus totam
                 accusantium vel,
                 maiores
                 praesentium soluta aut exercitationem, tempore, ea excepturi non vitae reprehenderit nihil.</p>
             <h4 class="sub-titles">Technologies:</h4>
             <div class="mini-logos">
-                <img src="Portfolio_images/php.png" alt="php" width=40px>
-                <img src="Portfolio_images/codeigniter.png" alt="php" width=40px>
-                <img src="Portfolio_images/jQuery.png" alt="jquery" width=40px>
-                <img src="Portfolio_images/ajax.png" alt="ajax" width=40px>
-                <img src="Portfolio_images/codeigniter.png" alt="php" width=40px>
-                <img src="Portfolio_images/mysql.png" alt="mysql" width=40px>
-                <img src="Portfolio_images/HTML.png" alt="html" width=40px>
-                <img src="Portfolio_images/CSS.png" alt="css" width=40px>
-                <img src="Portfolio_images/bootstrap.png" alt="bootstrap" width=40px>
+                <img src="Portfolio_images/php.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/codeigniter.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/jQuery.png" alt="jquery" style="width:40px">
+                <img src="Portfolio_images/ajax.png" alt="ajax" style="width:40px">
+                <img src="Portfolio_images/codeigniter.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/mysql.png" alt="mysql" style="width:40px">
+                <img src="Portfolio_images/HTML.png" alt="html" style="width:40px">
+                <img src="Portfolio_images/CSS.png" alt="css" style="width:40px">
+                <img src="Portfolio_images/bootstrap.png" alt="bootstrap" style="width:40px">
                 <div class="center-button">
                     <button type="button">La Mode</button>
                 </div>
@@ -84,22 +84,22 @@
         </div>
         <div class="block">
             <h2 class="titles">La Mode</h2>
-            <img src="Portfolio_images/lamode.png" alt="La mode" width=300px>
+            <img src="Portfolio_images/lamode.png" alt="La mode" style="width:300px">
             <p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim voluptatibus totam
                 accusantium vel,
                 maiores
                 praesentium soluta aut exercitationem, tempore, ea excepturi non vitae reprehenderit nihil.</p>
             <h4 class="sub-titles">Technologies:</h4>
             <div class="mini-logos">
-                <img src="Portfolio_images/php.png" alt="php" width=40px>
-                <img src="Portfolio_images/codeigniter.png" alt="php" width=40px>
-                <img src="Portfolio_images/jQuery.png" alt="jquery" width=40px>
-                <img src="Portfolio_images/ajax.png" alt="ajax" width=40px>
-                <img src="Portfolio_images/codeigniter.png" alt="php" width=40px>
-                <img src="Portfolio_images/mysql.png" alt="mysql" width=40px>
-                <img src="Portfolio_images/HTML.png" alt="html" width=40px>
-                <img src="Portfolio_images/CSS.png" alt="css" width=40px>
-                <img src="Portfolio_images/bootstrap.png" alt="bootstrap" width=40px>
+                <img src="Portfolio_images/php.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/codeigniter.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/jQuery.png" alt="jquery" style="width:40px">
+                <img src="Portfolio_images/ajax.png" alt="ajax" style="width:40px">
+                <img src="Portfolio_images/codeigniter.png" alt="php" style="width:40px">
+                <img src="Portfolio_images/mysql.png" alt="mysql" style="width:40px">
+                <img src="Portfolio_images/HTML.png" alt="html" style="width:40px">
+                <img src="Portfolio_images/CSS.png" alt="css" style="width:40px">
+                <img src="Portfolio_images/bootstrap.png" alt="bootstrap" style="width:40px">
             </div>
             <div class="center-button">
                 <button type="button">La Mode</button>
@@ -110,16 +110,17 @@
         <footer>
             <p>jdoe@gmails.com | 206-555-1212</p>
             <div id="social-media">
-                <img src="Portfolio_images/github.png" alt="github" width=20px class="sm-photos">
+                <img src="Portfolio_images/github.png" alt="github" style="width:20px" class="sm-photos">
                 <a href="www.google.com">jaynedev</a>
-                <img src="Portfolio_images/linkedin.png" alt="linkedin" width=20px class="sm-photos">
+                <img src="Portfolio_images/linkedin.png" alt="linkedin" style="width:20px" class="sm-photos">
                 <a href="www.google.com">jayne-doe</a>
-                <img src="Portfolio_images/twitter.png" alt="twitter" width=20px class="sm-photos">
+                <img src="Portfolio_images/twitter.png" alt="twitter" style="width:20px" class="sm-photos">
                 <a href="www.google.com">jdtweets</a>
-                <img src="Portfolio_images/codepen.png" alt="codepen" width=20px class="sm-photos">
+                <img src="Portfolio_images/codepen.png" alt="codepen" style="width:20px" class="sm-photos">
                 <a href="www.google.com">jaynedev</a>
             </div>
         </footer>
     </div>
 </body>
+
 </html>
