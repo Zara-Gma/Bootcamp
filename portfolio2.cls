@@ -49,10 +49,11 @@ h2 {
 
 #main .about {
   display: inline-block;
-  margin: 5px;
+  margin: 10px 5px 5px 5px;
   background-color: #eee8ee;
   width: 45%;
   vertical-align: top;
+  padding-bottom: 5px; 
 }
 
 #main .about-info {
